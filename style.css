@@ -1,0 +1,43 @@
+body{
+    font-family: 'Gemunu Libre', sans-serif;
+    background-color: rgb(81, 92, 103); 
+}
+.header_div{
+    background-color: darkslategray;
+    color: white;
+}
+.header_div h2{
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+.header_div p{
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.main_div button{
+    width: 150px;
+    font-size: 25px;
+    letter-spacing: 3px;
+    background-color: cornflowerblue;
+    margin-top: 30px;
+}
+.main_div h3{
+    font-size: 35px;
+    color: white;
+}
+.main_div h4{
+    font-size: 25px;
+    color: white;
+}
+.copy_right_footer{
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    line-height: 40px;
+    bottom: 0;
+    text-shadow: 3px 3px 3px black;
+}
